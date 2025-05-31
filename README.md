@@ -126,4 +126,4 @@ dependencies:
 - 👾 Discord server: https://discord.gg/QuGxSWBfQy
 - 🪽 Kokoro is a Japanese word that translates to "heart" or "spirit". Kokoro is also a [character in the Terminator franchise](https://terminator.fandom.com/wiki/Kokoro) along with [Misaki](https://github.com/hexgrad/misaki?tab=readme-ov-file#acknowledgements).
 
-<img src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/08/terminator-zero-41-1.jpg" width="400" alt="kokoro" />
+<img src="https://congnghe360.com/wp-content/uploads/2025/05/c11f123eeec30f9d56d2.jpg" width="400" alt="kokoro" />
